@@ -1,0 +1,28 @@
+2026-03-10 00:47:39 EDT INFO    Starting Codex v1.7.12
+2026-03-10 00:47:39 EDT INFO    Ensuring database is correct and up to date...
+2026-03-10 00:47:43 EDT INFO    Database ready.
+2026-03-10 00:47:43 EDT INFO    Created admin user.
+2026-03-10 00:47:43 EDT INFO    Created AdminFlag: Folder View = True
+2026-03-10 00:47:43 EDT INFO    Created AdminFlag: Registration = True
+2026-03-10 00:47:43 EDT INFO    Created AdminFlag: Non Users = True
+2026-03-10 00:47:43 EDT INFO    Created AdminFlag: Auto Update = False
+2026-03-10 00:47:43 EDT INFO    Created AdminFlag: Import Metadata = True
+2026-03-10 00:47:43 EDT INFO    Created AdminFlag: Send Telemetry = True
+2026-03-10 00:47:43 EDT INFO    Created AdminFlag: Banner Text = True
+2026-03-10 00:47:43 EDT INFO    Created Custom Covers Dir settings in the db.
+2026-03-10 00:47:43 EDT INFO    root_path: 
+2026-03-10 00:47:43 EDT INFO    Running Codex v1.7.12
+2026-03-10 00:47:44 EDT INFO    BroadcastListener started.
+2026-03-10 00:47:44 EDT INFO    LibrarianDaemon started all threads.
+2026-03-10 00:47:44 EDT INFO    LibrarianDaemon ready for tasks.
+2026-03-10 00:47:44 EDT INFO    Started watching library /Users/johnathanmo/devfest26/config/custom-covers with poll
+2026-03-10 00:47:44 EDT INFO    Library /Users/johnathanmo/devfest26/config/custom-covers waiting for manual poll.
+2026-03-10 00:47:44 EDT INFO    Looking for search entries to update since the fracturing of the multiverse...
+2026-03-10 00:47:44 EDT INFO    No search entries to update.
+2026-03-10 00:47:44 EDT INFO    Looking for missing search entries to create...
+2026-03-10 00:47:44 EDT INFO    No search entries to create.
+2026-03-10 00:47:44 EDT INFO    Search index updated in a moment.
+2026-03-10 14:52:35 EDT INFO    LibrarianDaemon joined all threads.
+2026-03-10 14:52:35 EDT INFO    LibrarianDaemon finished.
+2026-03-10 14:52:35 EDT INFO    BroadcastListener shutdown
+2026-03-10 14:52:35 EDT INFO    Goodbye.
